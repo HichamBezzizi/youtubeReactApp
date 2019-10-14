@@ -22,7 +22,6 @@ const SearchBar = ({ onFormSubmit }) => {
 
     return (
         <Paper elevation={6} style={{ padding: '20px' }}>
-            {/* <h1>Search bar component</h1> */}
             <TextField
                 fullWidth
                 label='Search video...'

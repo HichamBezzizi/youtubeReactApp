@@ -13,7 +13,6 @@ const VideoList = ({ videos, onVideoSelect }) => {
 
     return (
         <Grid container spacing={4}>
-            {/* <h1>Video list component</h1> */}
             {videoList}
         </Grid>
     )
